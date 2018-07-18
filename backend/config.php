@@ -13,9 +13,9 @@ define('APP_TITLE', 'Stream Viewer Sample');
 
 // DB
 define('DB_HOST', 'localhost');
-define('DB_USER', 'sv_user');
-define('DB_PASS', 'sv_pass123');
-define('DB_NAME', 'sv_db');
+define('DB_USER', 'db_user');
+define('DB_PASS', 'db_pass');
+define('DB_NAME', 'db_name');
 define('DB_DATE_FORMAT', 'Y-m-d H:i:s');
 
 // GOOGLE
